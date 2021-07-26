@@ -1,0 +1,15 @@
+{
+  "ads_mode":"admob",
+  "interstitial_frequency":"3",
+  "tapdaq_app_id":"",
+  "tapdaq_client_key":"",
+  "tapdaq_native_id":"default",
+  "tapdaq_interstitial_video_id":"default",
+
+  "admob_app_id":"ca-app-pub-3940256099942544~3347511713",
+  "admob_native_id":"ca-app-pub-3940256099942544/2247696110",
+  "admob_interstitial_id":"ca-app-pub-3940256099942544/1033173712",
+
+  "mopub_native_id":"11a17b188668469fb0412708c3d16813",
+  "mopub_interstitial_id":"24534e1901884e398f1253216226017e"
+}
