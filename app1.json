@@ -1,5 +1,5 @@
 {
-  "ads_mode":"mopub",
+  "ads_mode":"admob",
   "interstitial_frequency":"3",
   "tapdaq_app_id":"",
   "tapdaq_client_key":"",
